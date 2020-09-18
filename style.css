@@ -17,3 +17,7 @@ ul {
 li {
     padding: 8px;
 }
+
+img {
+    border: 5px solid rgb(167, 199, 139);
+}
